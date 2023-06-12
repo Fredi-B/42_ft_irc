@@ -12,8 +12,11 @@ To run the ft_irc server, you need to have the following:
 
 ## Usage
 
-To run the server, use the following command:
+To run the server, use the following commands:
 
+```
+  make
+```
 ```
   ./ircserv <port> <password>
 ```
